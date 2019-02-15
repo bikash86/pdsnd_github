@@ -1,4 +1,4 @@
-### Explore US Bikeshare Data
+# Explore US Bikeshare Data
 
 ## Date created
 The  project and the README file were created on **02/15/2019**
@@ -34,9 +34,9 @@ We'll write python code to provide the following information:
 ## Files used
 We will use the three city dataset files for gaining insights into the data:
 
-*chicago.csv
-*new_york_city.csv
-*washington.csv
+    *chicago.csv
+    *new_york_city.csv
+    *washington.csv
 
 ## Credits
 All the city data files are provided by Udacity as part of Python course. Also, a Python script template by Udacity was used to create the Bikeshare.py file.
