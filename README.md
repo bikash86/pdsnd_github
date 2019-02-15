@@ -39,4 +39,4 @@ We will use the three city dataset files for gaining insights into the data:
     *washington.csv
 
 ## Credits
-All the city data files are provided by Udacity as part of Python course. Also, a Python script template by Udacity was used to create the Bikeshare.py file.
+All the city data files are provided by Udacity as part of Python course. Also, a Python script template by Udacity was used to create the Bikeshare.py file. Also, used Google and Stackoverflow to get syntax.
